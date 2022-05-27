@@ -110,10 +110,22 @@ name {
   font-size: 38px;
 }
 
-.one {
+.side-image {
   width: 160px;
   height: 160px;
   position: relative;
+}
+
+.side-image-td {
+  padding:20px;
+  width:25%;
+  vertical-align:middle
+}
+
+.project-info-td {
+  padding:20px;
+  width:75%;
+  vertical-align:middle
 }
 
 .two {
@@ -125,17 +137,19 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
-.three {
+.group-image {
   width: 400px;
   height: 250px;
   position: relative;
 }
 
-.fade {
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
+.group-image-td {
+  padding:10px;
+  width:50%;
+  vertical-align:middle
+
 }
+
 
 span.highlight {
   background-color: #ffffd0;
