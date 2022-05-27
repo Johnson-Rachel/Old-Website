@@ -1,3 +1,3 @@
-This is  my personal website, updated December, 2021. 
+This is  my personal website, updated May, 2022. 
 
 https://rachelejohnson.com
