@@ -110,6 +110,10 @@ name {
   font-size: 38px;
 }
 
+.all-pages {
+  background-color: #ffffff;
+}
+
 .page-table {
   width:100%;
   max-width:800px;
