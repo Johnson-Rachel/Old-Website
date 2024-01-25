@@ -1,4 +1,4 @@
-This is  my personal website, updated July, 2023. 
+This is  my personal website, updated January, 2024. 
 
 https://rachelejohnson.com
 
