@@ -1,4 +1,4 @@
-This is  my personal website, updated January, 2024. 
+This is the old version of my personal website, last updated January, 2024. 
 
-https://rachelejohnson.com
+The new website can be found at: https://rachelejohnson.com
 
